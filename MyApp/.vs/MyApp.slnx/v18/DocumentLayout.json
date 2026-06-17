@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Models\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Models\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Views\\Items\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Views\\Items\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Controllers\\ItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Controllers\\ItemsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Migrations\\20260605094944_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Migrations\\20260605094944_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Migrations\\20260608063726_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Migrations\\20260608063726_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Data\\MyAppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Data\\MyAppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Models\\MyViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Models\\MyViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\Views\\Items\\Overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T10:59:52.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T08:35:58.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T08:34:47.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T05:32:47.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Models\\Item.cs",
+              "RelativeToolTip": "MyApp\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T05:30:24.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260605094944_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Migrations\\20260605094944_Initial Migration.cs",
+              "RelativeDocumentMoniker": "MyApp\\Migrations\\20260605094944_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Migrations\\20260605094944_Initial Migration.cs",
+              "RelativeToolTip": "MyApp\\Migrations\\20260605094944_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T09:49:44.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T06:48:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T06:48:11.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260608063726_second migration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Migrations\\20260608063726_second migration.cs",
+              "RelativeDocumentMoniker": "MyApp\\Migrations\\20260608063726_second migration.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Migrations\\20260608063726_second migration.cs",
+              "RelativeToolTip": "MyApp\\Migrations\\20260608063726_second migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:37:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\MyAppContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:16:03.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T11:02:49.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.targets [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-05T11:16:20.485Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sdk.props",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.300\\Sdks\\Microsoft.NET.Sdk.Web\\Sdk\\Sdk.props [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-05T11:16:21.575Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T05:23:38.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\appsettings.Development.json",
+              "RelativeToolTip": "MyApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T09:05:42.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Models\\MyViewModel.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\MyViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Models\\MyViewModel.cs",
+              "RelativeToolTip": "MyApp\\Models\\MyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:44:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Items\\Overview.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MyApp\\MyApp\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T05:37:08.12Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
