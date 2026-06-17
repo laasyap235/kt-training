@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\migrations\\20260616092243_book model added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:migrations\\20260616092243_book model added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\data\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:data\\firstapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\firstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:firstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|c:\\users\\admin\\source\\repos\\firstapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E740CC-F8DB-B017-A71D-92034BBA1895}|FirstAPI.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Data\\FirstAPIContext.cs",
+              "RelativeDocumentMoniker": "Data\\FirstAPIContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Data\\FirstAPIContext.cs",
+              "RelativeToolTip": "Data\\FirstAPIContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:05:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T08:59:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:20:15.517Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260616092243_book model added.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Migrations\\20260616092243_book model added.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260616092243_book model added.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Migrations\\20260616092243_book model added.cs",
+              "RelativeToolTip": "Migrations\\20260616092243_book model added.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:22:44.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstAPI.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\FirstAPI.http",
+              "RelativeDocumentMoniker": "FirstAPI.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\FirstAPI.http",
+              "RelativeToolTip": "FirstAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-16T06:05:56.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:46:38.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:40:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FirstAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA7wGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:50:15.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
