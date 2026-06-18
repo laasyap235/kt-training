@@ -10,44 +10,7 @@ namespace FirstAPI.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
-        //static private List<Book> books = new List<Book>
-        //{
-        //    new Book
-        //    {
-        //        Id = 1,
-        //        Title = "The Great Gatsby",
-        //        Author = "F. Scott Fitzgerald",
-        //        YearPublished = 1925
-        //    },
-        //    new Book
-        //    {
-        //        Id = 2,
-        //        Title = "To Kill a Mockingbird",
-        //        Author = "Harper Lee",
-        //        YearPublished = 1960
-        //    },
-        //    new Book
-        //    {
-        //        Id = 3,
-        //        Title = "1984",
-        //        Author = "George Orwell",
-        //        YearPublished = 1949
-        //    },
-        //    new Book
-        //    {
-        //        Id = 4,
-        //        Title = "Pride and Prejudice",
-        //        Author = "Jane Austen",
-        //        YearPublished = 1813
-        //    },
-        //    new Book
-        //    {
-        //        Id = 5,
-        //        Title = "The Hobbit",
-        //        Author = "J.R .R. Tolkien",
-        //        YearPublished = 1937
-        //    }
-        // };
+        
         private readonly FirstAPIContext _context;
         public BooksController(FirstAPIContext context)
         {
@@ -59,7 +22,7 @@ namespace FirstAPI.Controllers
             return Ok(await _context.Books.ToListAsync());
         }
         [HttpGet("{id}")]
-        public async Task<ActionResult<Book>> getBookById(int id)
+        public async Task<ActionResult<Book>> GetBookById(int id)
         {
             var book = await _context.Books.FindAsync(id);
             if (book == null)
@@ -83,7 +46,6 @@ namespace FirstAPI.Controllers
             if (book == null)
                 return NotFound();
 
-            book.Id = updateBook.Id;
             book.Title = updateBook.Title;
             book.Author = updateBook.Author;
             book.YearPublished = updateBook.YearPublished;
