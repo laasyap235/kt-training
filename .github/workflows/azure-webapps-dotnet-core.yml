@@ -2,7 +2,6 @@ name: Build and deploy ASP.Net Core app to an Azure Web App
 
 env:
   AZURE_WEBAPP_NAME: newwebapp
-  AZURE_WEBAPP_PACKAGE_PATH: 'Fullstackapp/tutorialapp'
   DOTNET_VERSION: '10.0'
 
 on:
@@ -24,21 +23,11 @@ jobs:
         with:
           dotnet-version: ${{ env.DOTNET_VERSION }}
 
-      - name: Set up dependency caching for faster builds
-        uses: actions/cache@v3
-        with:
-          path: ~/.nuget/packages
-          key: ${{ runner.os }}-nuget-${{ hashFiles('**/packages.lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-nuget-
-
       - name: Build with dotnet
-        run: dotnet build --configuration Release
-        working-directory: Fullstackapp/tutorialapp
+        run: dotnet build Fullstackapp/tutorialapp/tutorialapp.csproj --configuration Release
 
       - name: dotnet publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
-        working-directory: Fullstackapp/tutorialapp
+        run: dotnet publish Fullstackapp/tutorialapp/tutorialapp.csproj -c Release -o ${{env.DOTNET_ROOT}}/myapp
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
